@@ -6,9 +6,9 @@ title: Telepresence Robot
 ---
 # Telepresence Robot
 ## Team
--  E/14/262, Sanoj Punchihewa, [e14262@eng.pdn.ac.lk](mailto:e14262@eng.pdn.ac.lk)
--  E/14/305, Chandima B Samarasinghe, [e14305@eng.pdn.ac.lk](mailto:e14305@eng.pdn.ac.lk)
--  E/14/337, Yuvini Sumanasekera, [e14337@eng.pdn.ac.lk](mailto:e14337@eng.pdn.ac.lk)
+-  E/14/262, Sanoj Punchihewa, [e14262@ce.pdn.ac.lk](mailto:e14262@ce.pdn.ac.lk)
+-  E/14/305, Chandima B Samarasinghe, [e14305@ce.pdn.ac.lk](mailto:e14305@ce.pdn.ac.lk)
+-  E/14/337, Yuvini Sumanasekera, [e14337@ce.pdn.ac.lk](mailto:e14337@ce.pdn.ac.lk)
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Solution Architecture](#solution-architecture )
